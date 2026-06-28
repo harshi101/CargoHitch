@@ -2,7 +2,7 @@
 
 CargoHitch is a smart logistics platform designed to reduce empty truck runs by enabling real-time sharing of unused cargo space. The system connects truck owners with small businesses and SMEs that need to transport partial loads, making logistics more affordable, efficient, and environmentally sustainable.
 
-By focusing on partial-load optimization instead of full-load transport, CargoHitch improves truck utilization, reduces fuel wastage, and lowers carbon emissions while supporting small-scale businesses.
+By focusing on partial-load optimization instead of full-load transport, CargoHitch improves truck utilization, reduces fuel wastage, and lowers carbon emissions while supporting small-scale businesses. 
 
 ## 🌍 Problem Statement
 
